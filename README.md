@@ -17,7 +17,7 @@ Run `main.m`
 ## Citing
 If you in any way use this code for research, please cite our original article listed above. The corresponding BiBTeX citation is given below:
 ```
-@article{wang2022coupled,
+@article{wang2022noma,
   title={{NOMA}-aided Joint Communication, Sensing, and Multi-tier Computing Systems},
   author={Wang, Zhaolin and Mu, Xidong and Liu, Yuanwei and Xu, Xiaodong and Zhang, Ping},
   journal={{IEEE} J. Sel. Areas Commun.},
